@@ -1,0 +1,29 @@
+2022-12-11 22:49:45.453 ERROR 48453 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-12-11 22:49:55.848 ERROR 48465 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-12-11 22:50:38.133 ERROR 48510 --- [http-nio-8080-exec-2] c.eichem.controllers.GlobalErrorHandler  : Error occurred Product name cannot be empty
